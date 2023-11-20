@@ -3,7 +3,7 @@
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printer
-https://github.com/pochireddyp/Circulate-the-values-of-N-variables.git
+
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
