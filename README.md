@@ -57,7 +57,8 @@
 
 
 ## Output:
-![image](https://github.com/pochireddyp/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150232043/d0514606-54fe-48a5-b8f6-1daa0cbccdbb)
+![image](https://github.com/pochireddyp/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150232043/fe022915-2252-426c-8a18-7e706442058c)
+
 
 
 ### Name:p.pochi reddy
