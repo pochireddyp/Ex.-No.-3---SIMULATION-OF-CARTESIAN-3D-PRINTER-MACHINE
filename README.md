@@ -54,9 +54,10 @@
 
 ![ex 1](https://github.com/pochireddyp/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150232043/3c31869d-0692-4ea1-b614-83261134fbeb)
 
-![EX 3](https://github.com/pochireddyp/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150232043/762d86ef-2682-48a3-b290-98d3c0e93475)
+
 
 ## Output:
+![image](https://github.com/pochireddyp/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150232043/d0514606-54fe-48a5-b8f6-1daa0cbccdbb)
 
 
 ### Name:p.pochi reddy
